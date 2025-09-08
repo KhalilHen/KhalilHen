@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi  i am Khalil currently a software developer  student  in The Netherlands.<br> <br><br>🌱 I’m currently learning godot and in general game development<br>
+👋 Hi  i am Khalil currently a software developer  student  in The Netherlands.<br> <br><br>
 
 
 # 💻 Tech Stack:
